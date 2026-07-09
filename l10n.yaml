@@ -1,0 +1,3 @@
+arb-dir: lib/l10n #the place of arabic file 
+template-arb-file: app_en.arb  #file contain english trans
+output-localization-file: app_localizations.dart

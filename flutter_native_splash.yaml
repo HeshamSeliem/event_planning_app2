@@ -1,0 +1,29 @@
+flutter_native_splash:
+  # 🌞 Light
+  color: "#ffffff"
+  image: assets/images/logoLightMode.png
+  branding: assets/images/brandLightMode.png
+
+  # 🌙 Dark
+  color_dark: "#292929"
+  image_dark: assets/images/logoLightMode.png
+  branding_dark: assets/images/brandLightMode.png
+
+  # ⚙️ اختياري: مكان الـ branding
+  branding_mode: bottom
+  branding_bottom_padding: 24
+
+  # 🔥 Android 12+
+  android_12:
+    # Light
+    color: "#ffffff"
+    image: assets/images/logoLightMode.png
+    branding: assets/images/brandLightMode.png
+
+    # Dark
+    color_dark: "#292929"
+    image_dark: assets/images/logoLightMode.png
+    branding_dark: assets/images/brandLightMode.png
+
+    # خلفية اللوجو في Android 12 (لو عايز)
+    icon_background_color: "#ffffff"

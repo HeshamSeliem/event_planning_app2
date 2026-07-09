@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427993512959",
+    "project_id": "eventplaning-withamira-app",
+    "storage_bucket": "eventplaning-withamira-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427993512959:android:4c1d54440fa6b38ac085ca",
+        "android_client_info": {
+          "package_name": "com.example.event_plan_app_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw775hN_wuuHNM0j3tVZdxPcDToNYhp-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
